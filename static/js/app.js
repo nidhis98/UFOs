@@ -63,32 +63,15 @@ function updateFilters() {
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
     Object.entries(filters).forEach(([key, value]) => {
-      filteredData.filter
+      filteredData = filteredData.filter(row => row[key] === value);
 });
 
     // 10. Finally, rebuild the table using the filtered data
     
-  function buildTable(filteredData) {
-    // First, clear out any existing data
-    tbody.html("");
-  
-    // Next, loop through each object in the data
-    // and append a row and cells for each value in the row
-    data.forEach((dataRow) => {
-      // Append a row to the table body
-      let row = tbody.append("tr");
-  
-      // Loop through each field in the dataRow and add
-      // each value as a table cell (td)
-      Object.values(dataRow).forEach((val) => {
-        let cell = row.append("td");
-        cell.text(val);
-      });
-    });
-  }
-  }
+    buildTable(filteredData);
+}
   // 2. Attach an event to listen for changes to each filter
-  d3.selectAll(".filters").on("change", updateFilters);
+  d3.selectAll("input").on("change", updateFilters);
   
   // Build the table when the page loads
   buildTable(tableData);
