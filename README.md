@@ -28,8 +28,7 @@
 
 
 
-
-
+![Screenshot 2022-02-24 212352](https://user-images.githubusercontent.com/93355719/155642079-ad5bc0be-b606-4f79-9e67-c88c4c62d0e4.png)
 
 Figure 1
 
