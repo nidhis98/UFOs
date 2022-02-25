@@ -6,7 +6,7 @@
 
 2. Results
 
-	As shown below, the filter table has five options to choose from to narrow down a user’s search results. Depending on which UFO sighting(s) the user is searching for, one or more of the five filters can be applied (Figure 1).
+	As shown below, the filter table has five options to choose from to narrow down a userâ€™s search results. Depending on which UFO sighting(s) the user is searching for, one or more of the five filters can be applied (Figure 1).
 
 
 
@@ -58,7 +58,7 @@ Figure 1
 Figure 2
 
 
-       Additionally, multiple filters can be used to search for a UFO sighting. In Figure 3, we’ve applied the date and shape filter to narrow down the search results to UFO sightings which were light-based and occurred on 01/01/2010. To reduce the number of results which appear, it would be advised to a new user to apply as many of the filters as possible to get a more precise search result.
+       Additionally, multiple filters can be used to search for a UFO sighting. In Figure 3, weâ€™ve applied the date and shape filter to narrow down the search results to UFO sightings which were light-based and occurred on 01/01/2010. To reduce the number of results which appear, it would be advised to a new user to apply as many of the filters as possible to get a more precise search result.
 
 
 
@@ -76,7 +76,7 @@ Figure 2
 
 
 
-\
+
 
 Figure 3
 
