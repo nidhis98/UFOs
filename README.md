@@ -29,7 +29,6 @@
 
 
 ![Screenshot 2022-02-24 212352](https://user-images.githubusercontent.com/93355719/155642079-ad5bc0be-b606-4f79-9e67-c88c4c62d0e4.png)
-
 Figure 1
 
 
@@ -52,8 +51,7 @@ Figure 1
 
 
 
-
-
+![Screenshot 2022-02-24 212827](https://user-images.githubusercontent.com/93355719/155642361-ea572a9d-f0ea-4315-8f2e-f2fd4f116d54.png)
 Figure 2
 
 
@@ -75,8 +73,7 @@ Figure 2
 
 
 
-
-
+![Screenshot 2022-02-24 212919](https://user-images.githubusercontent.com/93355719/155642371-d94e1549-f1d3-4b39-8f49-3d58ca8862f5.png)
 Figure 3
 
 
